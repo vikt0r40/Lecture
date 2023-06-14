@@ -188,7 +188,7 @@ public class OrderPanel extends JPanel implements ActionListener{
 		
 		setLayout(groupLayout);
 		
-		
+		System.out.println("Test");
 		
 		
 	}
